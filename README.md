@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Automation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 AutoIt Free Installer** — AutoIt is a free scripting language and automation tool for Windows that simulates keystrokes, mouse movements, and window interactions. Works without internet access, no account required. Full offline installation.
+**💻 AutoIt Free Installer** — AutoIt is a free Windows scripting language for automating the Windows GUI and general scripting. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About AutoIt
 
-AutoIt is a free scripting language and automation tool for Windows that simulates keystrokes, mouse movements, and window interactions. It is used for automating repetitive tasks, creating simple GUI applications, and testing Windows software.
+AutoIt is a free Windows scripting language for automating the Windows GUI and general scripting. Control windows, simulate keyboard and mouse input, interact with the Windows API, and create standalone executables from scripts. AutoIt's ability to automate applications that don't support COM or scripting makes it uniquely valuable for automating legacy software without API access.
 
 ---
 
 ## ❌ Problem: AutoIt is hard to access
 
-- **Windows Only** — Scripts run only on Windows systems
-- **Antivirus Flags** — AutoIt scripts sometimes flagged as malware by antivirus software
-- **Dated Language** — Syntax is less modern than alternatives like Python or PowerShell
-- **Security Concerns** — Powerful automation capabilities make it a common malware delivery vector
+- **Windows Only** — Windows-specific automation language
+- **GUI Automation Fragility** — UI changes in target applications can break automation scripts
+- **Antivirus Detection** — AutoIt executables commonly flagged by antivirus software
+- **Competition** — Modern automation tools like PowerShell or Python have larger ecosystems
 
 ---
 
@@ -121,7 +121,7 @@ AutoIt is a free scripting language and automation tool for Windows that simulat
 
 ---
 
-**AutoIt Free Installer** — AutoIt is a free scripting language and automation tool for Windows that simulates keystrokes, mouse movements, and window interactions. Install without internet connection today!
+**AutoIt Free Installer** — AutoIt is a free Windows scripting language for automating the Windows GUI and general scripting. Install without internet connection today!
 
 <div align="center">
 
